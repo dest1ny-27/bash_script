@@ -2,8 +2,8 @@
 mkdir -p BEZ/{VARG,VARJ/GR1,VARI/GR2}
 touch BEZ/VARJ/GR1/illia.txt
 touch BEZ/VARI/GR2/bezborodko.txt
-echo "Group: 441; Date: 12.07.2022; Email: so+me_mail123@chnu.edu.ua" > BEZ/VARJ/GR1/illia.txt
-echo "Group: 441; Date: 12.07.2022; Email: so+me_mail123@chnu.edu.ua" > BEZ/VARI/GR2/bezborodko.txt 
+echo "Group: 441; Date: 12.07.2022; Email: some_mail123@chnu.edu.ua" > BEZ/VARJ/GR1/illia.txt
+echo "Group: 441; Date: 12.07.2022; Email: some_mail123@chnu.edu.ua" > BEZ/VARI/GR2/bezborodko.txt 
 echo Directory tree was created!
 cp BEZ/VARJ/GR1/illia.txt BEZ/illia_copy.txt
 cp BEZ/VARI/GR2/bezborodko.txt BEZ/bezborodko_copy.txt
